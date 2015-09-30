@@ -1,2 +1,2 @@
-# WP-Admin-Edit-Post-Breadcrumbs
-Add edit links of post ancestors to the edit post screen.
+# WordPress Admin Edit Post Breadcrumbs.
+Add breadcrumbs with edit links to the WordPress admin edit post screen.
